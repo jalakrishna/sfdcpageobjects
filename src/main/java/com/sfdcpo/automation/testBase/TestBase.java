@@ -4,6 +4,9 @@ public class TestBase {
 
 
 
-    
+
+    public void init(){
+        
+    }
 
 }
